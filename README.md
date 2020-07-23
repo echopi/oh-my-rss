@@ -1,2 +1,3 @@
 # oh-my-rss
-oh my rss
+
+My rss subscriptions.
